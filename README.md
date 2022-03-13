@@ -16,11 +16,16 @@ https://github.com/dabardonov/hse_hw3_chromhmm/blob/main/ChromHMM.ipynb
 
 ### Картинки из выдачи ChromHMM
 
-
+| ![image](https://user-images.githubusercontent.com/93095449/158064311-92d3c35b-90fd-475f-8af6-bebec9e831da.png) | ![image](https://user-images.githubusercontent.com/93095449/158064330-629144f6-b2f7-46c8-9234-effba7c28200.png) | ![image](https://user-images.githubusercontent.com/93095449/158064386-f92c5612-b951-4cfb-a39d-580e208a4dd9.png) | ![image](https://user-images.githubusercontent.com/93095449/158064398-3e006e04-099c-449f-b47e-b66f57bf0700.png) | ![image](https://user-images.githubusercontent.com/93095449/158064425-72dc9a22-6bcc-45d6-bf87-bd4785a1206d.png) |
+| ------------- | ------------- |--------------------| -- | -- |
 
 ### Скриншоты из геномного браузера
 
 ![image](https://user-images.githubusercontent.com/93095449/158063953-2923a847-c649-4a20-9c94-1fa60ee7ad98.png)
+
+![image](https://user-images.githubusercontent.com/93095449/158064187-1505fe47-9cea-4682-b391-0bd07b049e28.png)
+
+![image](https://user-images.githubusercontent.com/93095449/158064258-dfe01fe2-7b8d-4271-a4bd-2585fbdadbe2.png)
 
 ### Выводы
 
