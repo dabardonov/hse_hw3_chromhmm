@@ -45,3 +45,4 @@ https://github.com/dabardonov/hse_hw3_chromhmm/blob/main/ChromHMM.ipynb
 
 ![image](https://user-images.githubusercontent.com/93095449/158068444-f36b9d8d-570a-4b2d-bbbf-122964768219.png)
 
+Как я это сделал? Открыл '...dense.bed' в Notepad++ и заменил номера состояний на соответствующие названия 
