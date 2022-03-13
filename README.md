@@ -41,4 +41,7 @@ https://github.com/dabardonov/hse_hw3_chromhmm/blob/main/ChromHMM.ipynb
 
 ### Скриншоты бонусной части
 
+![image](https://user-images.githubusercontent.com/93095449/158068403-294baec3-965b-4b3c-bca6-cdae5fb7a17d.png)
+
+![image](https://user-images.githubusercontent.com/93095449/158068444-f36b9d8d-570a-4b2d-bbbf-122964768219.png)
 
