@@ -37,7 +37,7 @@ https://github.com/dabardonov/hse_hw3_chromhmm/blob/main/ChromHMM.ipynb
 | **Какие состояния расположены рядом с этим** | 2 | - | 2 | - | 4, 6 | 5, 10, 4 | 2, 8 | 7, 9, 2, 1 | 8, 10 | 6, 9 |
 | **Расположение относительно старта транскрипции** | - | - | - | - | - | (до и после TSS) | (до TSS) | На TSS (до TSS) | На TSS и по обе стороны | (До) и после TSS |
 | **Расположение относительно конца транскрипции** | (До, на и после TES) | - | (До, на и после TES) | До, на и после TES | (До и на TES) | (До, на и после TES) | (После TES) | (До, на и после TES) | До (на и после TES) | До, на (и после TES) |
-| **Вывод** | Polycomb-repressed | Heterochromatin 1 | Heterochromatin 2 | Transcribed region 1 | Transcribed region 2 |  | Enhancer | Enhancer 2 |  | Promoter |
+| **Вывод** | Polycomb-repressed | Heterochromatin 1 | Heterochromatin 2 | Transcribed region 1 | Transcribed region 2 |  | Enhancer | Enhancer 2 | Active promoter | Promoter |
 
 ### Скриншоты бонусной части
 
